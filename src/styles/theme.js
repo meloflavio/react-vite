@@ -1,4 +1,7 @@
 export const theme = {
+  content: {
+    minHeight: '50vh',
+  },
   colors: {
     primaryColor1: '#1351b4',
     secondaryColor1: '#000000',
@@ -45,3 +48,5 @@ export const theme = {
     secondaryButtonActiveColor1: '#95b1dd',
   },
 };
+
+export const MenuId = 'main-navigation';
